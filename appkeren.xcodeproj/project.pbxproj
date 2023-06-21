@@ -14,6 +14,7 @@
 		C4E1B12B2A42DD600033A138 /* appkerenTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4E1B12A2A42DD600033A138 /* appkerenTests.swift */; };
 		C4E1B1352A42DD600033A138 /* appkerenUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4E1B1342A42DD600033A138 /* appkerenUITests.swift */; };
 		C4E1B1372A42DD600033A138 /* appkerenUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4E1B1362A42DD600033A138 /* appkerenUITestsLaunchTests.swift */; };
+		C4E1B1442A42E3B00033A138 /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4E1B1432A42E3B00033A138 /* OnboardingView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		C4E1B1302A42DD600033A138 /* appkerenUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = appkerenUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C4E1B1342A42DD600033A138 /* appkerenUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = appkerenUITests.swift; sourceTree = "<group>"; };
 		C4E1B1362A42DD600033A138 /* appkerenUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = appkerenUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		C4E1B1432A42E3B00033A138 /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				C4E1B11B2A42DD5F0033A138 /* ContentView.swift */,
 				C4E1B11D2A42DD600033A138 /* Assets.xcassets */,
 				C4E1B11F2A42DD600033A138 /* Preview Content */,
+				C4E1B1432A42E3B00033A138 /* OnboardingView.swift */,
 			);
 			path = appkeren;
 			sourceTree = "<group>";
@@ -257,6 +260,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C4E1B1442A42E3B00033A138 /* OnboardingView.swift in Sources */,
 				C4E1B11C2A42DD5F0033A138 /* ContentView.swift in Sources */,
 				C4E1B11A2A42DD5F0033A138 /* appkerenApp.swift in Sources */,
 			);
